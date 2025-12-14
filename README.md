@@ -175,6 +175,5 @@ git push heroku main
 - [ ] Browser extension integration
 - [ ] Real-time email client integration
 
----
 
 
